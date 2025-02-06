@@ -1,0 +1,25 @@
+/* Add this to your CSS file */
+
+.w3-button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: #000;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .w3-button:hover {
+    background-color: #ff0000;
+  }
+  
+  .w3-display-left {
+    left: 0;
+  }
+  
+  .w3-display-right {
+    right: 0;
+  }
